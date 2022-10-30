@@ -1,10 +1,11 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { MapContainer, TileLayer, Tooltip } from 'react-leaflet';
 import { useMapStore } from '../../store/useMapStore';
 import { SearchField } from '../SearchField';
 import { BoundControl } from '../BoundControl';
 import { LatLngExpression } from 'leaflet';
 import { GeoJsonWithUpdates } from '../GeoJsonWithUpdates';
+import { Loader } from '../Loader';
 
 export const Map = () => {
   const { featureData, status } = useMapStore((state) => ({
@@ -14,17 +15,10 @@ export const Map = () => {
 
   const berlinCenter: LatLngExpression = [52.520008, 13.404954];
 
-  useEffect(() => {
-    console.log(status);
-  }, [status]);
-
-  useEffect(() => {
-    console.log(featureData, 'featureData');
-  }, [featureData]);
-
   return (
     <MapContainer className="map" center={berlinCenter} zoom={15}>
       <SearchField />
+      {status === 'loading' && <Loader />}
       <BoundControl />
       {featureData.length > 0 &&
         featureData.map((feature, index) => (

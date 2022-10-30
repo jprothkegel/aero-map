@@ -17,7 +17,6 @@ export const useMapStore = create<MapState>((set) => ({
   mapStatus: 'idle',
   getMapData: async (bbox: string) => {
     set({ mapStatus: 'loading' });
-    console.log(bbox, 'bbox');
     const response = await callGetMapData(bbox);
     set({
       mapData: response.data,
