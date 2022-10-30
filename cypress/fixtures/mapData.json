@@ -1,0 +1,529 @@
+{
+  "featureData": [
+    {
+      "type": "Feature",
+      "id": "node/27411231",
+      "properties": {
+        "timestamp": "2019-11-02T14:50:22Z",
+        "version": 10,
+        "changeset": 76529694,
+        "user": "johndoe",
+        "uid": 122712,
+        "description": "S Alexanderplatz, Gleis 3",
+        "light_rail": "yes",
+        "name": "S Alexanderplatz",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "3",
+        "train": "yes",
+        "id": "node/27411231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4113816, 52.5214176]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/27411240",
+      "properties": {
+        "timestamp": "2019-11-02T14:50:22Z",
+        "version": 25,
+        "changeset": 76529694,
+        "user": "johndoe",
+        "uid": 122712,
+        "description": "S Hackescher Markt, Gleis 3",
+        "level": "1",
+        "light_rail": "yes",
+        "name": "S Hackescher Markt",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "3",
+        "train": "yes",
+        "id": "node/27411240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4023469, 52.5226166]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29495029",
+      "properties": {
+        "timestamp": "2019-03-30T01:20:24Z",
+        "version": 21,
+        "changeset": 68683745,
+        "user": "johndoe",
+        "uid": 122712,
+        "description": "U Klosterstraße, Gleis 2",
+        "name": "U Klosterstraße",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref:BVG": "222702",
+        "subway": "yes",
+        "website": "https://qr.bvg.de/h222702",
+        "id": "node/29495029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4125273, 52.5172066]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/30217208",
+      "properties": {
+        "timestamp": "2019-12-17T15:28:14Z",
+        "version": 25,
+        "changeset": 78534262,
+        "user": "hrausn",
+        "uid": 10559846,
+        "internet_access": "wlan",
+        "layer": "5",
+        "name": "Berlin Alexanderplatz",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "note": "Berlin Alexanderplatz (Fernbahngleise) ist von der S-Bahn-Station unabhängig und nur ein Haltepunkt, da es keine einzige Weiche gibt.",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "BALE",
+        "railway:station_category": "3",
+        "toilets:wheelchair": "yes",
+        "train": "yes",
+        "uic_ref": "8089001",
+        "wheelchair": "yes",
+        "wikidata": "Q698497",
+        "wikipedia": "de:Bahnhof Berlin Alexanderplatz",
+        "id": "node/30217208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4110794, 52.5214574]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/30731481",
+      "properties": {
+        "timestamp": "2019-06-01T16:12:11Z",
+        "version": 20,
+        "changeset": 70838750,
+        "user": "johndoe",
+        "uid": 122712,
+        "name": "Spandauer Straße/Marienkirche",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:BVG": "308806",
+        "tram": "yes",
+        "website": "https://qr.bvg.de/h308806",
+        "id": "node/30731481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4042441, 52.5204243]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/30731497",
+      "properties": {
+        "timestamp": "2021-06-21T07:53:46Z",
+        "version": 18,
+        "changeset": 106690431,
+        "user": "wheelmap_visitor",
+        "uid": 290680,
+        "name": "U Alexanderplatz",
+        "name:BVG": "U Alexanderplatz [Tram]",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:BVG": "308808",
+        "tram": "yes",
+        "website": "https://qr.bvg.de/h308808",
+        "wheelchair": "yes",
+        "id": "node/30731497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4147332, 52.5221645]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/30731508",
+      "properties": {
+        "timestamp": "2019-03-17T10:38:25Z",
+        "version": 19,
+        "changeset": 68224758,
+        "user": "johndoe",
+        "uid": 122712,
+        "name": "S+U Alexanderplatz/Gontardstraße",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:BVG": "308807",
+        "tram": "yes",
+        "website": "https://qr.bvg.de/h308807",
+        "id": "node/30731508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4115103, 52.5208822]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/30732068",
+      "properties": {
+        "timestamp": "2022-02-24T08:45:36Z",
+        "version": 21,
+        "changeset": 117798163,
+        "user": "wheelmap_visitor",
+        "uid": 290680,
+        "name": "S+U Alexanderplatz/Memhardstraße",
+        "name:BVG": "S+U Alexanderplatz/Memhardstraße [4-5]",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:BVG": "308818",
+        "tram": "yes",
+        "website": "https://qr.bvg.de/h308818",
+        "wheelchair": "yes",
+        "id": "node/30732068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4116514, 52.5236711]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/60240143",
+      "properties": {
+        "timestamp": "2022-05-13T12:49:14Z",
+        "version": 20,
+        "changeset": 120935064,
+        "user": "Sidorela",
+        "uid": 4903516,
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "10178",
+        "addr:street": "Karl-Liebknecht-Straße",
+        "addr:suburb": "Mitte",
+        "brand": "Radisson Blu",
+        "brand:wikidata": "Q7281341",
+        "brand:wikipedia": "en:Radisson Blu",
+        "name": "Radisson Collection Hotel Berlin",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-berlin",
+        "wheelchair": "yes",
+        "id": "node/60240143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4028297, 52.5195175]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89274697",
+      "properties": {
+        "timestamp": "2020-12-29T18:02:31Z",
+        "version": 10,
+        "changeset": 96619482,
+        "user": "AhmadHB",
+        "uid": 10182045,
+        "addr:city": "Berlin",
+        "addr:city:fa": "برلین",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "10178",
+        "addr:street": "Panoramastraße",
+        "addr:suburb": "Mitte",
+        "amenity": "pharmacy",
+        "contact:phone": "+49 30 24720707",
+        "contact:website": "http://www.panoramaapotheke.de/",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Panorama Apotheke",
+        "opening_hours": "Mo-Fr 08:00-20:00;Sa 08:30-18:00",
+        "wheelchair": "yes",
+        "id": "node/89274697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4096557, 52.5218379]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89274703",
+      "properties": {
+        "timestamp": "2022-10-27T22:48:23Z",
+        "version": 15,
+        "changeset": 128149260,
+        "user": "degutant",
+        "uid": 4974073,
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "10178",
+        "addr:street": "Panoramastraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "check_date": "2022-10-28",
+        "cuisine": "german",
+        "email": "restaurant@der-alte-fritz.de",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "Der Alte Fritz",
+        "opening_hours": "PH,Mo-Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 30 96200600",
+        "takeaway": "yes",
+        "website": "https://der-alte-fritz.eatbu.com/",
+        "id": "node/89274703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4092065, 52.5214304]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89274704",
+      "properties": {
+        "timestamp": "2022-08-23T21:06:26Z",
+        "version": 11,
+        "changeset": 125289290,
+        "user": "Polarbear",
+        "uid": 114161,
+        "atm": "yes",
+        "brand": "Commerzbank",
+        "brand:wikidata": "Q157617",
+        "brand:wikipedia": "de:Commerzbank",
+        "disused:amenity": "bank",
+        "name": "Commerzbank",
+        "opening_hours": "Tu,Th 09:00-13:00,14:30-18:00; Mo,We 09:00-13:00,14:00-16:00; Fr 09:00-14:00",
+        "operator": "Commerzbank AG",
+        "wheelchair": "no",
+        "id": "node/89274704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4100262, 52.5216534]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89274884",
+      "properties": {
+        "timestamp": "2022-08-23T16:33:21Z",
+        "version": 25,
+        "changeset": 125280050,
+        "user": "Zkwosch",
+        "uid": 108500,
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "10178",
+        "addr:street": "Rathausstraße",
+        "addr:suburb": "Mitte",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "brand": "Dunkin' Donuts",
+        "brand:wikidata": "Q847743",
+        "brand:wikipedia": "en:Dunkin' Donuts",
+        "contact:website": "https://www.dunkin-donuts.de/",
+        "cuisine": "donut;coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Dunkin' Donuts",
+        "opening_hours": "Fr,Sa 08:00-23:00; Su-Th 08:00-22:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "id": "node/89274884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.411431, 52.520095]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89274887",
+      "properties": {
+        "timestamp": "2022-10-04T16:27:41Z",
+        "version": 10,
+        "changeset": 127004635,
+        "user": "momabebra",
+        "uid": 9508237,
+        "amenity": "post_office",
+        "brand": "Deutsche Post",
+        "brand:wikidata": "Q157645",
+        "brand:wikipedia": "en:Deutsche Post",
+        "level": "0",
+        "name": "Deutsche Post",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-15:00",
+        "operator": "Deutsche Post",
+        "operator:wikidata": "Q157645",
+        "operator:wikipedia": "de:Deutsche Post AG",
+        "wheelchair": "no",
+        "id": "node/89274887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4115537, 52.5196982]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89274888",
+      "properties": {
+        "timestamp": "2022-10-27T22:51:38Z",
+        "version": 16,
+        "changeset": 128149310,
+        "user": "degutant",
+        "uid": 4974073,
+        "addr:city": "Berlin",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "Apotheke in den Rathauspassagen",
+        "opening_hours": "Mo-Fr 09:00-19:30; Sa 10:00-19:00",
+        "wheelchair": "yes",
+        "id": "node/89274888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4111159, 52.519834]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89274938",
+      "properties": {
+        "timestamp": "2015-12-26T12:02:06Z",
+        "version": 6,
+        "changeset": 36175133,
+        "user": "Nakaner-repair",
+        "uid": 2149259,
+        "amenity": "cafe",
+        "name": "Eiscafe Lampe",
+        "wheelchair": "yes",
+        "id": "node/89274938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4103508, 52.5195321]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89275075",
+      "properties": {
+        "timestamp": "2019-09-13T15:43:35Z",
+        "version": 5,
+        "changeset": 74444512,
+        "user": "Creando",
+        "uid": 132740,
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pomodori",
+        "wheelchair": "limited",
+        "id": "node/89275075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4071626, 52.5180123]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89275133",
+      "properties": {
+        "timestamp": "2011-01-10T11:25:26Z",
+        "version": 3,
+        "changeset": 6925202,
+        "user": "geozeisig",
+        "uid": 66391,
+        "amenity": "atm",
+        "name": "Bankhaus August Lenz",
+        "id": "node/89275133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4069563, 52.5180249]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89275135",
+      "properties": {
+        "timestamp": "2022-01-09T14:16:28Z",
+        "version": 13,
+        "changeset": 115944209,
+        "user": "hfs",
+        "uid": 9607,
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "10178",
+        "addr:street": "Rathausstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Mutter Hoppe",
+        "opening_hours": "Mo-Su 11:30-22:00+",
+        "phone": "+49 30 24720603",
+        "website": "http://mutterhoppe.de",
+        "wheelchair": "no",
+        "id": "node/89275135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4063126, 52.5177288]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89275143",
+      "properties": {
+        "timestamp": "2022-01-03T23:46:54Z",
+        "version": 17,
+        "changeset": 115732307,
+        "user": "Andro Mappa",
+        "uid": 14771166,
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "10178",
+        "addr:street": "Rathausstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "contact:fax": "+49-30-97005796",
+        "contact:phone": "+49-30-97005787",
+        "cuisine": "regional",
+        "name": "Julchen Hoppe",
+        "opening_hours": "Mo-Fr 11:30+",
+        "toilets:wheelchair": "no",
+        "website": "https://julchen-hoppe.eatbu.com/?lang=de",
+        "wheelchair": "yes",
+        "id": "node/89275143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4050245, 52.5172681]
+      }
+    }
+  ]
+}

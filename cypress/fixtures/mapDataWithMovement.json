@@ -1,0 +1,476 @@
+{
+  "featureData": [
+    {
+      "type": "Feature",
+      "id": "node/27411240",
+      "properties": {
+        "timestamp": "2019-11-02T14:50:22Z",
+        "version": 25,
+        "changeset": 76529694,
+        "user": "johndoe",
+        "uid": 122712,
+        "description": "S Hackescher Markt, Gleis 3",
+        "level": "1",
+        "light_rail": "yes",
+        "name": "S Hackescher Markt",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "3",
+        "train": "yes",
+        "id": "node/27411240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4023469, 52.5226166]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/30731481",
+      "properties": {
+        "timestamp": "2019-06-01T16:12:11Z",
+        "version": 20,
+        "changeset": 70838750,
+        "user": "johndoe",
+        "uid": 122712,
+        "name": "Spandauer Straße/Marienkirche",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:BVG": "308806",
+        "tram": "yes",
+        "website": "https://qr.bvg.de/h308806",
+        "id": "node/30731481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4042441, 52.5204243]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/60240143",
+      "properties": {
+        "timestamp": "2022-05-13T12:49:14Z",
+        "version": 20,
+        "changeset": 120935064,
+        "user": "Sidorela",
+        "uid": 4903516,
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "10178",
+        "addr:street": "Karl-Liebknecht-Straße",
+        "addr:suburb": "Mitte",
+        "brand": "Radisson Blu",
+        "brand:wikidata": "Q7281341",
+        "brand:wikipedia": "en:Radisson Blu",
+        "name": "Radisson Collection Hotel Berlin",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-berlin",
+        "wheelchair": "yes",
+        "id": "node/60240143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4028297, 52.5195175]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89275075",
+      "properties": {
+        "timestamp": "2019-09-13T15:43:35Z",
+        "version": 5,
+        "changeset": 74444512,
+        "user": "Creando",
+        "uid": 132740,
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pomodori",
+        "wheelchair": "limited",
+        "id": "node/89275075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4071626, 52.5180123]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89275133",
+      "properties": {
+        "timestamp": "2011-01-10T11:25:26Z",
+        "version": 3,
+        "changeset": 6925202,
+        "user": "geozeisig",
+        "uid": 66391,
+        "amenity": "atm",
+        "name": "Bankhaus August Lenz",
+        "id": "node/89275133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4069563, 52.5180249]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89275135",
+      "properties": {
+        "timestamp": "2022-01-09T14:16:28Z",
+        "version": 13,
+        "changeset": 115944209,
+        "user": "hfs",
+        "uid": 9607,
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "10178",
+        "addr:street": "Rathausstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Mutter Hoppe",
+        "opening_hours": "Mo-Su 11:30-22:00+",
+        "phone": "+49 30 24720603",
+        "website": "http://mutterhoppe.de",
+        "wheelchair": "no",
+        "id": "node/89275135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4063126, 52.5177288]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89275143",
+      "properties": {
+        "timestamp": "2022-01-03T23:46:54Z",
+        "version": 17,
+        "changeset": 115732307,
+        "user": "Andro Mappa",
+        "uid": 14771166,
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "10178",
+        "addr:street": "Rathausstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "contact:fax": "+49-30-97005796",
+        "contact:phone": "+49-30-97005787",
+        "cuisine": "regional",
+        "name": "Julchen Hoppe",
+        "opening_hours": "Mo-Fr 11:30+",
+        "toilets:wheelchair": "no",
+        "website": "https://julchen-hoppe.eatbu.com/?lang=de",
+        "wheelchair": "yes",
+        "id": "node/89275143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4050245, 52.5172681]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/162012321",
+      "properties": {
+        "timestamp": "2020-12-17T15:41:24Z",
+        "version": 19,
+        "changeset": 96015680,
+        "user": "geozeisig",
+        "uid": 66391,
+        "name": "Mitte",
+        "name:de": "Mitte",
+        "name:prefix": "Ortsteil",
+        "name:ru": "Митте",
+        "note": "siehe Relation für Details",
+        "place": "suburb",
+        "wikidata": "Q2013767",
+        "wikipedia": "de:Berlin-Mitte",
+        "id": "node/162012321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4040601, 52.5178855]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/247603398",
+      "properties": {
+        "timestamp": "2019-08-03T15:31:26Z",
+        "version": 10,
+        "changeset": 72971894,
+        "user": "johndoe",
+        "uid": 122712,
+        "name": "Am Kupfergraben",
+        "note": "end of line, only to north east",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:BVG": "309547",
+        "tram": "yes",
+        "website": "https://qr.bvg.de/h309547",
+        "id": "node/247603398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3953839, 52.5194208]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/258497093",
+      "properties": {
+        "timestamp": "2019-04-24T11:08:27Z",
+        "version": 17,
+        "changeset": 69521203,
+        "user": "wheelmap_visitor",
+        "uid": 290680,
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "10178",
+        "addr:street": "Rosenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "contact:phone": "+49 30 84711058",
+        "cuisine": "asian",
+        "name": "Eden",
+        "opening_hours": "Mo-Fr 12:00-23:00; Sa 13:00-23:00; Su 17:00-23:00",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "id": "node/258497093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4047999, 52.5219316]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262455810",
+      "properties": {
+        "timestamp": "2018-08-14T07:22:41Z",
+        "version": 17,
+        "changeset": 61645710,
+        "user": "wheelmap_visitor",
+        "uid": 290680,
+        "historic": "memorial",
+        "image": "http://commons.wikimedia.org/wiki/File:Berlin,_Neue_Wache,_interior_view,_2005.jpg",
+        "name": "Zentrale Gedenkstätte für die Opfer von Krieg und Gewaltherrschaft",
+        "name:de": "Zentrale Gedenkstätte für die Opfer von Krieg und Gewaltherrschaft",
+        "name:en": "Central Memorial for the Victims of War and Tyranny",
+        "name:lt": "Centrinis memorialas už karo ir tironijos aukas",
+        "wheelchair": "yes",
+        "id": "node/262455810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3955447, 52.5178828]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268916088",
+      "properties": {
+        "timestamp": "2018-03-01T20:10:50Z",
+        "version": 8,
+        "changeset": 56799732,
+        "user": "kartonage",
+        "uid": 1497225,
+        "amenity": "kindergarten",
+        "name": "Hort der Evangelische Schule Berlin-Mitte",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "id": "node/268916088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4062279, 52.5228886]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/271295817",
+      "properties": {
+        "timestamp": "2021-08-13T15:21:24Z",
+        "version": 27,
+        "changeset": 109636747,
+        "user": "nomoresecrets",
+        "uid": 13686477,
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Spandauer Straße/Marienkirche",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "id": "node/271295817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4058018, 52.5203132]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/271296143",
+      "properties": {
+        "timestamp": "2021-09-16T07:51:17Z",
+        "version": 26,
+        "changeset": 111276663,
+        "user": "momabebra",
+        "uid": 9508237,
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Spandauer Straße/Marienkirche",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "id": "node/271296143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4061585, 52.5209215]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/271296293",
+      "properties": {
+        "timestamp": "2018-12-22T12:41:51Z",
+        "version": 15,
+        "changeset": 65692566,
+        "user": "tordans",
+        "uid": 11881,
+        "bus": "yes",
+        "name": "Staatsoper",
+        "public_transport": "stop_position",
+        "ref:BVG": "107160",
+        "website": "https://qr.bvg.de/h107160",
+        "id": "node/271296293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3943657, 52.5174204]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275609059",
+      "properties": {
+        "timestamp": "2022-04-12T20:49:08Z",
+        "version": 6,
+        "changeset": 119638957,
+        "user": "Dignus est intrare",
+        "uid": 10343642,
+        "artist_name": "Ingeborg Hunzinger",
+        "artist:wikidata": "Q291173",
+        "historic": "memorial",
+        "name": "Block der Frauen",
+        "ref:lda": "09040455",
+        "start_date": "1989",
+        "subject:wikidata": "Q269464",
+        "wheelchair": "yes",
+        "wikidata": "Q6578286",
+        "id": "node/275609059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4050723, 52.5210717]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279158435",
+      "properties": {
+        "timestamp": "2022-09-05T13:18:12Z",
+        "version": 13,
+        "changeset": 125815341,
+        "user": "kartonage",
+        "uid": 1497225,
+        "artwork_type": "statue",
+        "heritage": "4",
+        "heritage:operator": "lda",
+        "lda:criteria": "Baudenkmal",
+        "name": "Gerhard von Scharnhorst",
+        "ref:lda": "09060119",
+        "tourism": "artwork",
+        "wheelchair": "no",
+        "id": "node/279158435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3953685, 52.5171431]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279158438",
+      "properties": {
+        "timestamp": "2022-09-05T13:18:12Z",
+        "version": 13,
+        "changeset": 125815341,
+        "user": "kartonage",
+        "uid": 1497225,
+        "artwork_type": "statue",
+        "heritage": "4",
+        "heritage:operator": "lda",
+        "lda:criteria": "Baudenkmal",
+        "name": "Friedrich Wilhelm Bülow",
+        "ref:lda": "09095484",
+        "tourism": "artwork",
+        "wheelchair": "no",
+        "id": "node/279158438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3954892, 52.5171496]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/305260598",
+      "properties": {
+        "timestamp": "2017-05-23T06:54:31Z",
+        "version": 11,
+        "changeset": 48907515,
+        "user": "RoterEmil",
+        "uid": 4179530,
+        "amenity": "cafe",
+        "name": "Café im Alten Museum",
+        "wheelchair": "limited",
+        "id": "node/305260598"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3985266, 52.5191167]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/376673532",
+      "properties": {
+        "timestamp": "2016-10-16T02:30:17Z",
+        "version": 6,
+        "changeset": 42928607,
+        "user": "chenyenchenyen",
+        "uid": 4730746,
+        "amenity": "fountain",
+        "name": "Schinkel-Fontäne",
+        "name:zh": "博物館島",
+        "id": "node/376673532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3996864, 52.5185862]
+      }
+    }
+  ]
+}
