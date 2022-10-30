@@ -1,4 +1,3 @@
-import React from 'react';
 import { MapContainer, TileLayer, Tooltip } from 'react-leaflet';
 import { useMapStore } from '../../store/useMapStore';
 import { SearchField } from '../SearchField';

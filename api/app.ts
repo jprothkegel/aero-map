@@ -1,6 +1,6 @@
 import express from 'express';
 import cors from 'cors';
-import mapRoutes from "./routes/mapRoutes";
+import mapRoutes from './routes/mapRoutes';
 
 const app = express();
 app.use(express.urlencoded({ extended: false }));
@@ -9,9 +9,10 @@ app.use(cors());
 
 const baseUrl = '/api/v1';
 app.use(baseUrl, mapRoutes);
+const PORT = 3000;
 
-const server = app.listen(3000, () => {
-  console.log('The application is listening on PORT=3000')
-})
+const server = app.listen(PORT, () => {
+  console.log(`The application is listening on PORT=${PORT}`);
+});
 
 export default server;

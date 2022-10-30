@@ -2,9 +2,11 @@ import request from 'supertest';
 import server from '../app';
 
 describe('GET /api/v1/map', () => {
+
   afterAll(() => {
     server.close();
   });
+
   describe('when bbox is correct', () => {
     test('should respond with a 200 status code', async () => {
       const response = await request(server).get(
@@ -13,6 +15,7 @@ describe('GET /api/v1/map', () => {
       expect(response.statusCode).toBe(200);
     });
   });
+
   describe('when bbox is missing', () => {
     test('should respond with a 500 status code', async () => {
       const response = await request(server).get('/api/v1/map?limit20');
@@ -46,6 +49,7 @@ describe('GET /api/v1/map', () => {
       expect(response.statusCode).toBe(500);
     });
   });
+
   describe('when limit is too small', () => {
     test('should respond with 500 status code', async () => {
       const response = await request(server).get(
@@ -60,6 +64,7 @@ describe('GET /api/v1/map', () => {
       expect(response.statusCode).toBe(500);
     });
   });
+
   describe('when limit is not a number', () => {
     test('should respond with 500 status code', async () => {
       const response = await request(server).get(

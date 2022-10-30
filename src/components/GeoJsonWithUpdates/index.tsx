@@ -1,4 +1,4 @@
-import React, { ReactElement, useEffect, useRef } from 'react';
+import { ReactElement, useEffect, useRef } from 'react';
 import { GeoJSON, GeoJSONProps } from 'react-leaflet';
 import { GeoJSON as LeafletGeoJSON } from 'leaflet';
 
@@ -9,7 +9,7 @@ import { GeoJSON as LeafletGeoJSON } from 'leaflet';
  * It accepts the same props like react-leaflet's GeoJSON component.
  * However, updates are only support
  */
-export const GeoJsonWithUpdates = (props: GeoJSONProps): ReactElement  => {
+export const GeoJsonWithUpdates = (props: GeoJSONProps): ReactElement => {
   const geoJsonLayerRef = useRef<LeafletGeoJSON | null>(null);
 
   useEffect(() => {
@@ -27,4 +27,4 @@ export const GeoJsonWithUpdates = (props: GeoJSONProps): ReactElement  => {
   }, [props.data, props.pathOptions, props.style]);
 
   return <GeoJSON data-cy={`geo-json`} {...props} ref={geoJsonLayerRef} />;
-}
+};
